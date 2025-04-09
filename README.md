@@ -67,7 +67,7 @@ Streamlit
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file.
 
 `GEMINI_API_KEY`
 
@@ -76,7 +76,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Demo
 
-Demo/scorpio-gpt-demo.png
+![ScorpioGPT Demo Screenshot](Demo/scorpio-gpt-demo.png)
 
 ## Author
 
@@ -87,3 +87,6 @@ Demo/scorpio-gpt-demo.png
 
 Feel free to fork the repository, create a branch, and submit a pull request. Contributions are always welcome!
 
+## Feedback
+
+If you have any feedback, please reach out to us at 2116181@saec.ac.in
